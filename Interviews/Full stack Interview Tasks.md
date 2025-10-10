@@ -1,3 +1,4 @@
+Related to [[Frontend Interview Q&A]] & [[Backend Interview Q&A]]
 1. The component should log "User data fetched!" only when the `userId` prop changes. Why is it logging on every render? Find the error.
    
    ```tsx
