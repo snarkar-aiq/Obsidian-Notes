@@ -3,7 +3,6 @@ tags:
   - interviews
   - full-stack
 ---
-
 ## ⚛️ Frontend (React) Basic Questions
 
 1. **What is React?**
