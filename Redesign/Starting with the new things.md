@@ -106,7 +106,6 @@ Map Container
 - **Memoization**: Prevent re-renders of complex map components
 
 ---
-
 ## **5. Authentication Integration with PropelAuth**
 
 ### **Security-First Design**
@@ -243,9 +242,7 @@ components/
 - **User Expectations**: Smooth interactions at 60fps
 - **Data Costs**: Minimize API calls to reduce costs and improve reliability
 - **Mobile Considerations**: Efficient performance on lower-powered devices
-
 ---
-
 ## **Common Anti-Patterns to Avoid**
 
 1. **Storing all data globally** - Keep only necessary data in stores
