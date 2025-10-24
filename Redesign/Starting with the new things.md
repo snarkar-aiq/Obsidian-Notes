@@ -6,7 +6,9 @@ tags:
 ## **Tech Stack**
 ---
 - **Frontend** = Vite & React TS.
-- **UI Library** = ShadCN UI
+- **UI Library** = Shadcn UI
 - **State Management** = Zustand
 - **Authentication** = PropelAuth
+- **Map Visualization** = Maptiler SDK
+- **Weather Visualization** = Maptiler Weather API & Windy API 
 - 
