@@ -78,7 +78,6 @@ With multiple external APIs (Maptiler, Windy, PropelAuth), we need a consistent 
 - Implement retry logic for flaky connections
 
 ---
-
 ## **4. React Components with Geospatial Data**
 
 ### **The Component Hierarchy**
