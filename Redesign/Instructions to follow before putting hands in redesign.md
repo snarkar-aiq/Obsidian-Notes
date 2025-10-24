@@ -1,11 +1,14 @@
-
+---
+tags:
+  - frontend
+  - best-practices
+---
 ### **The Frontend Clean Code Ruleset (Inspired by Uncle Bob)**
 
 **Preamble for the Team:**
 "The goal of these rules is not to restrict creativity but to empower it. By writing clean code, we spend less time debugging and deciphering, and more time building features and delivering value. This is our shared contract for quality."
 
 ---
-
 ### **Rule #1: Meaningful Names are Non-Negotiable**
 *This is the first and most impactful rule.*
 

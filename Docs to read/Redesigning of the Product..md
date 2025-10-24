@@ -1,1 +1,3 @@
-### 1. [[Go with scratch]]
+### 1. [[Instructions to follow before putting hands in redesign]]
+### 2. [[Starting with the new things]]
+
