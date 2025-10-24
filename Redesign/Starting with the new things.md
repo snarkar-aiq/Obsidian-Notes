@@ -6,4 +6,5 @@ tags:
 ## **Tech Stack**
 ---
 - **Frontend** - Vite & React TS.
-- UI Library
+- **UI Library** - Shadcn UI
+- 
