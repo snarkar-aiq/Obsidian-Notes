@@ -5,6 +5,8 @@ tags:
 ---
 ## **Tech Stack**
 ---
-- **Frontend** - Vite & React TS.
-- **UI Library** - Shadcn UI
+- **Frontend** = Vite & React TS.
+- **UI Library** = ShadCN UI
+- **State Management** = Zustand
+- **Authentication** = PropelAuth
 - 
