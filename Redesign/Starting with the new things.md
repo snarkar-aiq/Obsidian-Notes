@@ -11,4 +11,5 @@ tags:
 - **Authentication** = PropelAuth
 - **Map Visualization** = Maptiler SDK
 - **Weather Visualization** = Maptiler Weather API & Windy API 
+- **Webcams** = Windy API
 - 
