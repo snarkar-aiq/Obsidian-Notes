@@ -1,4 +1,4 @@
-## 1. **Container–Presentational Pattern** #CP-Pattern
+### 1. **Container–Presentational Pattern** #CP-Pattern
 
 👉 **Separates logic from UI rendering**.
 
@@ -30,7 +30,7 @@ const UserProfile = ({ user }: { user: User | null }) => (
 ✅ Benefit: Keeps code maintainable & reusable.
 
 
-## 2. **Atomic Design Pattern** #atomic-design  
+### 2. **Atomic Design Pattern** #atomic-design  
 
 👉 Build UIs from **small to large units** (hierarchical structure).
 - **Atoms** → basic elements (button, input)
@@ -63,7 +63,7 @@ const Navbar = () => (
 
 ---
 
-## 3. **State Store Pattern with Zustand**
+### 3. **State Store Pattern with Zustand**
 
 👉 Keep all **global, cross-component state** in a centralized store (instead of Flux/Redux).
 
