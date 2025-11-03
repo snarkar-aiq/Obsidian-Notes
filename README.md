@@ -1,0 +1,1 @@
+This repo is responsible for all documentation of Frontend and Platform Technologies.

@@ -3,6 +3,11 @@ tags:
   - interviews
   - frontend
 ---
+### **Assignments**
+
+[[Task Document - Interactive Mapping Application]]
+### **Questions**
+---
 ### 1. What is Vite and why is it preferred over CRA (Create React App)?
 
 **Answer:**  
