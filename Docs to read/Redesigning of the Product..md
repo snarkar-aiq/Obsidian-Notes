@@ -23,3 +23,8 @@ So we are starting implementation of the redesigned onboarding flow, beginning w
 ## [[1 - Tab Implementation]]
 
 So, in summary , this Tab implementation is responsible for creating various instances of Map for the user.
+
+
+## [[2 - Sidebar UI Classification.]]
+
+So, here we will add icons and match the design of Sidebar given in Figma. Make sure to use same icons for better classification.
