@@ -60,3 +60,6 @@ You can create it through here :
 ---
 So for an instance, you must see a web app similar to this , 
 
+![[Pasted image 20251116042933.png]]
+
+Register or Login and you are good to go :).
