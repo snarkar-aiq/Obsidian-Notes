@@ -49,4 +49,14 @@ VITE_WINDY_API_KEY=zNYzKklqIpOnE5ZLaNzHEA1r4yVF9cNp
 
 If you're gonna do any changes (_Documentation, Code changes, anything....._), Go for creating a new branch everytime.
 Make sure you mention that branch to your mate beforehand. Do follow naming conventions : 
-`feature/navbar` , `fix/sidebar_ui`, 
+`feature/navbar` , `fix/sidebar_ui`, `refactor/footer` 
+You can create it through here : 
+- In VSCode, bottom-left corner.
+![[Pasted image 20251116042114.png]]![[Pasted image 20251116042146.png]]
+> Imp : Do follow this step or else it would be a conflict between you and PR :)>
+ 
+
+## 4 : After party
+---
+So for an instance, you must see a web app similar to this , 
+
