@@ -32,6 +32,7 @@ VITE_WINDY_API_KEY=zNYzKklqIpOnE5ZLaNzHEA1r4yVF9cNp
 ---
 - First, make sure you are in **Git Bash**.
 - Secondly, check your directory.
+- Thirdly, if you want to try the prototype, checkout to the `revamp/frontend` branch.
 - Now here are the commands : 
 	- If you have node_modules : 
 		`npm run reinstall`
@@ -55,6 +56,7 @@ You can create it through here :
 ![[Pasted image 20251116042114.png]]![[Pasted image 20251116042146.png]]
 > Imp : Do follow this step or else it would be a conflict between you and PR :)>
  
+<div style="break-after: page;"></div>
 
 ## 4 : After party
 ---
